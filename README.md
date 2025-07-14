@@ -157,9 +157,7 @@ cd backend
 npm install
 npx nodemon app.js
   
-MongoDB URI must be in .env as:
-MONGO_URI=mongodb://localhost:27017/jobportal
-JWT_SECRET=yourSecretKey
+
 
 
 ### frontend
