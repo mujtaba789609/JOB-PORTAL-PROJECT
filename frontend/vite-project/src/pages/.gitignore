@@ -1,0 +1,17 @@
+# Node modules (do not upload these to GitHub)
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Optional system files
+.DS_Store
+Thumbs.db
+
+# Build files
+dist/
+build/
